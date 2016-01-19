@@ -22,4 +22,8 @@ android:
     # if you need to run emulator(s) during your tests
     - sys-img-armeabi-v7a-android-22
     - sys-img-x86-android-22
-    
+install:
+  # Check install section: http://docs.travis-ci.com/user/build-configuration/#install
+  # If you'd like to skip the install stage entirely, set it to true and nothing will be run.
+  - true
+
