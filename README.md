@@ -1,5 +1,5 @@
 # questionsAndroid
-[![Build Status](https://travis-ci.org/COMP3111/questionsAndroid.svg?branch=master)](https://travis-ci.org/fchollet/keras)
+[![Build Status](https://travis-ci.org/COMP3111/questionsAndroid.svg?branch=master)](https://travis-ci.org/COMP3111/questionsAndroid)
 
 #### Android Studio
 Download: http://developer.android.com/tools/studio/index.html
